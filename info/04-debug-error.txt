@@ -1,0 +1,5 @@
+Type of error: NameError (uninitialized constant DockingStation)
+Path of error: /Users/fixationvideo/.rvm/rubies/ruby-2.6.3/lib/ruby/gems/2.6.0/gems/irb-1.0.0/exe/irb
+Line of error: 11
+Suggest: declare DockingStation as a constant, for example:
+2.6.3 :002 > DockingStation = nil
